@@ -1,0 +1,76 @@
+**Changelog:**
+
+**Version 2.6:**
+
+- Updated bootstrap css and js files from 3.3.4 to 3.3.50.
+- Updated jquery from 1.11.2 to 1.11.3.
+- Updated HTML5Shiv from 3.7.2 to 3.7.3.
+- Minor style update (style.css).
+- Updated full calendar to version 2.3.2. Added one more file moment.min.js. (all HTML files).
+- Updated data tables to version 1.10.7.
+- Updated flot plugin to 0.8.3.
+- Updated prettyPhoto to 3.1.6.
+- Updated jQuery UI to 1.11.4.
+
+**Version 2.5:**
+
+- Minor design update. (style.css)
+- Updated Bootstrap to version 3.3.2.
+- Updated jQuery to version 1.11.2.
+- Updated fonts folder to version 4.3.0.
+- Updated Fonts Awesome CSS to version 4.3.0.
+- Updated HTML5Shiv to version 3.7.2.
+- Updated jQuery Plugin DataTables to version 1.10.5.
+- Updated jQuery Plugin Knob to version 1.2.11.
+- Updated jQuery Plugin Rateit to version 1.0.22.
+- Updated jQuery-UI to version 1.11.2.
+- Updated jQuery Plugin Bootstrap Switch to version 3.3.2.
+- Added Table Responsiveness for Table.(profile.html, tables.html)
+- Style fix for DataTables.(tables.hml, style.css)
+- Changed width for outer container.(style.css)
+- Added Margin Left for checkbox in a form.(style.css)
+- Changed sidebar search box width.(style.css)
+
+**Version 2.0:**
+
+- Updated font awesome icon plugin, Bootstrap and jQuery.
+- Updated font awesome icon code. (All HTML files & custom.js)
+- Moved google web font link from HTML file to style.css. (style.css and all HTML files)
+- Added Meta charset. (All HTML files)
+- Updated following plugins: fullcalendar, bootstrap switch, gritter, flot chart, rateit, jquery ui, knob.
+- Huge design update. (style.css)
+- Removed open sans condensed font (style.css)
+- To top button bug fix. (custom.js)
+- Removed all background images and replaced with colors (style.css)
+- Removed Map block (index.html, style.css)
+- Added one more item in quick widget. (index.html)
+- Removed extensions and pages widget form index page. (index.html)
+- Removed labels from knob block (index.html)
+- Posts page, make post tab bug fix. (posts.html)
+- Updated bootstrap switch code (ui.html, custom.js, style.css)
+- Removed container div from lock-others section. (lock.html)
+- Updated send input box in chat widget. (index.html & widgets.html)
+- Added basic documentation. 
+
+**Version 1.3:**
+
+- Added Front End Version of the Sheldon.
+- Flat removed. 
+
+**Version 1.2.2:**
+
+- Removed Italic Google Web Font to reduce the loading speed. (all html files).
+
+**Version 1.2.1:**
+
+- Moved Map down. (index.html & style.css)
+
+**Version 1.2:**
+
+- Removed animations to reduce the loading speed. (all html files, style.css).
+- Added scroll to top when quick slide button get clicked.
+- Added Map.
+
+**Verion 1.0:**
+
+- Initial Release
